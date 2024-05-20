@@ -5,3 +5,4 @@ python-dotenv
 neo4j 
 yfiles-jupyter-graphs
 wikipedia
+openpyxl
