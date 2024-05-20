@@ -1,0 +1,7 @@
+langchain_experimental
+langchain_openai
+langchain_core
+python-dotenv
+neo4j 
+yfiles-jupyter-graphs
+wikipedia
